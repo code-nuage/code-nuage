@@ -16,8 +16,11 @@ I love to develop videogames in Lua.
 LÖVE2D is my favorite Lua framework and also my favorite game engine
 
 ## Projects
-### luadc
-A Lua framework to develop Lua videogames in a terminal
+### livre
+A Lua framework to develop Lua applications in a terminal
 
 ### trfs
 A shell script to transfer files through SSH
+
+### simpliestui
+A CSS framework/design system/boilerplate that aims to be a simple and easy HTML classes stylizer
