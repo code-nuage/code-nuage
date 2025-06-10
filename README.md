@@ -14,13 +14,3 @@ I learn a lot about web dev, **JavaScript**, **PHP**, **SQL**.
 ### ❤️ Game development
 I love to develop videogames in Lua.
 LÖVE2D is my favorite Lua framework and also my favorite game engine
-
-## Projects
-### livre
-A Lua framework to develop Lua applications in a terminal
-
-### trfs
-A shell script to transfer files through SSH
-
-### simpliestui
-A CSS framework/design system/boilerplate that aims to be a simple and easy HTML classes stylizer
